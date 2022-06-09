@@ -10,7 +10,7 @@ This is the collection of codes developed for my Undergraduate Thesis. Its purpo
 
 ## Scripts
 
-![General pipeline for the scripts](Images/Pipeline_README.svg)
+![General pipeline for the scripts](Images/Pipeline_README.png)
 
 ### results_to_json.py
 
